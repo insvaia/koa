@@ -1,0 +1,13 @@
+# 环境变量文件（包含密码和密钥，绝对不能提交！）
+.env
+
+# 依赖文件夹
+node_modules/
+
+# 日志文件
+logs/
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
